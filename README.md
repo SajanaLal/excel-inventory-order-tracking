@@ -1,6 +1,6 @@
 # Inventory & Order Tracking Automation (Excel VBA)
 
-![Inventory and reorder dashboard](Screenshot%202026-11-20%20130300.png)
+![Inventory and reorder dashboard](Excel_dashboard.png)
 
 *The inventory and reorder dashboard: inventory value, available stock, reorder alerts, average lead time, and slicers by category and supplier.*
 
